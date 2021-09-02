@@ -15,6 +15,7 @@ export const styles = StyleSheet.create({
         color: 'white',
         fontSize: 60,
         textAlign: 'right',
+        marginBottom: 10,
     },
     resultadoPequeno: {
         color: 'rgba(255,255,255,0.5)',
@@ -25,6 +26,7 @@ export const styles = StyleSheet.create({
         flexDirection:'row',
         justifyContent:'center',
         paddingHorizontal: 10,
+        marginBottom: 10,
     },
     boton: {
         height: 80,
